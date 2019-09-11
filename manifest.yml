@@ -1,4 +1,5 @@
 ---
+//comments
 applications:
   - name: shipping-service-js-XX
     memory: 256M
