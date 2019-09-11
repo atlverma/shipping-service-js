@@ -2,7 +2,7 @@ apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
   name: shipping-service-ingress-30
-  namespace: lab-cnb
+  namespace: atulvermans
   labels:
     app: shipping-service-30  
 spec:
