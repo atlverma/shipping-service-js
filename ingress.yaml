@@ -7,7 +7,7 @@ metadata:
     app: shipping-service-30  
 spec:
   rules:
-  - host: shipping-service-XX.cnb-iks.eu-gb.containers.appdomain.cloud
+  - host: shipping-service-30.cnb-iks.eu-gb.containers.appdomain.cloud
     http:
       paths:
       - path: /
